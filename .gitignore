@@ -1,0 +1,15 @@
+*~
+*#
+.#*
+*.pyc
+__pycache__/
+commit
+test.py
+.python-version
+app/static/large-covers/
+app/static/medium-covers/
+app/static/small-covers/
+book.db
+backup.db
+backup.sh
+mail_config.py
